@@ -5,6 +5,7 @@ This project demonstrates affine registration of 2D and 3D point clouds using th
 ## Project Structure
 
 ```
+point-cloud-match
 ├── .gitignore  
 ├── README.md  
 ├── assets  
