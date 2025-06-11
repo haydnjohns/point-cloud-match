@@ -15,3 +15,6 @@ venv/
 
 # Ignore tree.py script
 tree.py
+
+# Ignore all contents in assets folder
+assets/
